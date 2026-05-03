@@ -12,7 +12,7 @@ I'm aiming to build a career at the intersection of **Embedded Systems, IoT, and
 |---|---|
 | **Hardware / Embedded** | STM32, ESP32/ESP8266, SystemVerilog |
 | **Software / Backend** | C/C++, Node.js, LangChain, MQTT |
-| **OS & Workflow** | Linux (Fedora, Hyprland, Quickshell), PlatformIO, STM32CubeIDE, GitHub Actions (CI/CD) |
+| **OS & Workflow** | Linux , PlatformIO, STM32CubeIDE, GitHub Actions (CI/CD) |
 | **Documentation** | LaTeX |
 
 ---
