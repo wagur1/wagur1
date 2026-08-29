@@ -18,9 +18,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=wagur1&theme=radical&hide_border=true&cache_seconds=86400" alt="wagur1's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wagur1&theme=radical&radius=10" alt="wagur1's Activity Graph" />
-</p>
+
 
 
 ## 🔗 Connect with Me
