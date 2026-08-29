@@ -8,7 +8,9 @@
 
 ## 🧠 My Focus Areas
 - IOT, Embedded Systems
-- Cloud Computing/AI
+- Cloud Computing
+- AI in Embedded Systems
+- Computer Vision
 
 
 ## 📊 GitHub Stats & Trophies
