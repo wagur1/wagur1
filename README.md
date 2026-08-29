@@ -7,9 +7,8 @@
 </p>
 
 ## 🧠 My Focus Areas
-- IOT
+- IOT, Embedded Systems
 - Cloud Computing/AI
-- Embedded Systems
 
 
 ## 📊 GitHub Stats & Trophies
